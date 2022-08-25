@@ -70,8 +70,8 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
-
+        provider: utterances
+        #disqus
         disqusjs:
             shortname:
             apiUrl:
