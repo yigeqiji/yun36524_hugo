@@ -58,7 +58,7 @@ params:
         avatar:
             enabled: true
             local: false
-            src: https://wallsdesk.com/wp-content/uploads/2016/02/Ana-De-Armas-Wallpapers.jpg
+            src: https://mms0.baidu.com/it/u=3819313691,1570329298&fm=253&app=138&f=JPEG&fmt=auto&q=75?w=487&h=500
 
     article:
         math: false
