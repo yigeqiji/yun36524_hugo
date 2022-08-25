@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 晨
-        subtitle: 你有什么想说的，都可以在这里倾诉，心声带给你心灵的颤抖.
+        subtitle: 你有什么想说的，都可以在这里倾诉，心声捕获世间点滴.
         avatar:
             enabled: true
             local: false
