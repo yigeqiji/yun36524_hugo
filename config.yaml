@@ -2,16 +2,16 @@ baseurl: https://example.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: 等麦熟
+title: 心声
 
 languages:
     zh-cn:
         languageName: 中文
-        title: 等麦熟
+        title: 心声
         weight: 1
     en:
         languageName: English
-        title: 等麦熟
+        title: 心声
         weight: 2
     ar:
         languageName: عربي
