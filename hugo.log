@@ -97,3 +97,13 @@ WARN 2022/08/25 18:41:30 Archives page not found. Create a page with layout: arc
 WARN 2022/08/25 18:41:30 Search page not found. Create a page with layout: search.
 WARN 2022/08/25 18:41:30 Archives page not found. Create a page with layout: archives.
 Rebuilt in 116 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 18:52:53.238 +0800
+WARN 2022/08/25 18:52:53 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:52:53 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:52:53 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:52:53 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:52:53 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:52:53 Archives page not found. Create a page with layout: archives.
+Rebuilt in 119 ms
