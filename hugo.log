@@ -1,0 +1,99 @@
+nohup: ignoring input
+Start building sites … 
+hugo v0.101.0-466fa43c16709b4483689930a4f9ac8add5c9f66+extended linux/amd64 BuildDate=2022-06-16T07:09:16Z VendorInfo=gohugoio
+WARN 2022/08/25 18:19:02 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:19:02 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:19:02 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:19:02 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:19:02 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:19:02 Archives page not found. Create a page with layout: archives.
+
+                   | EN | ZH-CN | AR  
+-------------------+----+-------+-----
+  Pages            |  7 |     7 |  7  
+  Paginator pages  |  0 |     0 |  0  
+  Non-page files   |  0 |     0 |  0  
+  Static files     |  0 |     0 |  0  
+  Processed images |  1 |     0 |  0  
+  Aliases          |  4 |     3 |  3  
+  Sitemaps         |  2 |     1 |  1  
+  Cleaned          |  0 |     0 |  0  
+
+Built in 98 ms
+Watching for changes in /home/ubuntu/hugo/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /home/ubuntu/hugo/config.yaml, /home/ubuntu/hugo/themes/hugo-theme-stack/config.yaml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:80/ (bind address 0.0.0.0)
+Press Ctrl+C to stop
+
+Change of config file detected, rebuilding site.
+2022-08-25 18:22:43.239 +0800
+WARN 2022/08/25 18:22:43 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:22:43 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:22:43 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:22:43 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:22:43 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:22:43 Archives page not found. Create a page with layout: archives.
+Rebuilt in 138 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 18:23:45.239 +0800
+WARN 2022/08/25 18:23:45 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:23:45 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:23:45 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:23:45 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:23:45 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:23:45 Archives page not found. Create a page with layout: archives.
+Rebuilt in 132 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 18:28:38.239 +0800
+WARN 2022/08/25 18:28:38 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:28:38 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:28:38 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:28:38 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:28:38 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:28:38 Archives page not found. Create a page with layout: archives.
+Rebuilt in 119 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 18:29:28.738 +0800
+WARN 2022/08/25 18:29:28 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:29:28 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:29:28 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:29:28 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:29:28 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:29:28 Archives page not found. Create a page with layout: archives.
+Rebuilt in 120 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 18:33:01.238 +0800
+WARN 2022/08/25 18:33:01 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:33:01 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:33:01 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:33:01 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:33:01 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:33:01 Archives page not found. Create a page with layout: archives.
+Rebuilt in 107 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 18:33:36.738 +0800
+WARN 2022/08/25 18:33:36 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:33:36 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:33:36 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:33:36 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:33:36 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:33:36 Archives page not found. Create a page with layout: archives.
+Rebuilt in 100 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 18:41:30.239 +0800
+WARN 2022/08/25 18:41:30 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:41:30 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:41:30 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:41:30 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 18:41:30 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 18:41:30 Archives page not found. Create a page with layout: archives.
+Rebuilt in 116 ms
