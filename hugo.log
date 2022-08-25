@@ -107,3 +107,135 @@ WARN 2022/08/25 18:52:53 Archives page not found. Create a page with layout: arc
 WARN 2022/08/25 18:52:53 Search page not found. Create a page with layout: search.
 WARN 2022/08/25 18:52:53 Archives page not found. Create a page with layout: archives.
 Rebuilt in 119 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 20:30:55.239 +0800
+ERROR 2022/08/25 20:30:55 Failed loading avatar from map["enabled":%!q(bool=true) "local":%!q(bool=true) "src":"https://mms0.baidu.com/it/u=3819313691,1570329298&fm=253&app=138&f=JPEG&fmt=auto&q=75?w=487&h=500"]
+WARN 2022/08/25 20:30:55 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:30:55 Archives page not found. Create a page with layout: archives.
+ERROR 2022/08/25 20:30:55 Failed loading avatar from map["enabled":%!q(bool=true) "local":%!q(bool=true) "src":"https://mms0.baidu.com/it/u=3819313691,1570329298&fm=253&app=138&f=JPEG&fmt=auto&q=75?w=487&h=500"]
+WARN 2022/08/25 20:30:55 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:30:55 Archives page not found. Create a page with layout: archives.
+ERROR 2022/08/25 20:30:55 Failed loading avatar from map["enabled":%!q(bool=true) "local":%!q(bool=true) "src":"https://mms0.baidu.com/it/u=3819313691,1570329298&fm=253&app=138&f=JPEG&fmt=auto&q=75?w=487&h=500"]
+WARN 2022/08/25 20:30:55 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:30:55 Archives page not found. Create a page with layout: archives.
+ERROR 2022/08/25 20:30:55 logged 3 error(s)
+Rebuilt in 136 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 20:35:47.239 +0800
+ERROR 2022/08/25 20:35:47 Failed loading avatar from map["enabled":%!q(bool=true) "local":%!q(bool=true) "src":"https://wallsdesk.com/wp-content/uploads/2016/02/Ana-De-Armas-Wallpapers.jpg"]
+WARN 2022/08/25 20:35:47 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:35:47 Archives page not found. Create a page with layout: archives.
+ERROR 2022/08/25 20:35:47 Failed loading avatar from map["enabled":%!q(bool=true) "local":%!q(bool=true) "src":"https://wallsdesk.com/wp-content/uploads/2016/02/Ana-De-Armas-Wallpapers.jpg"]
+WARN 2022/08/25 20:35:47 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:35:47 Archives page not found. Create a page with layout: archives.
+ERROR 2022/08/25 20:35:47 Failed loading avatar from map["enabled":%!q(bool=true) "local":%!q(bool=true) "src":"https://wallsdesk.com/wp-content/uploads/2016/02/Ana-De-Armas-Wallpapers.jpg"]
+WARN 2022/08/25 20:35:47 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:35:47 Archives page not found. Create a page with layout: archives.
+ERROR 2022/08/25 20:35:47 logged 3 error(s)
+Rebuilt in 108 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 20:37:39.739 +0800
+WARN 2022/08/25 20:37:39 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:37:39 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 20:37:39 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:37:39 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 20:37:39 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:37:39 Archives page not found. Create a page with layout: archives.
+Rebuilt in 102 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 20:39:50.738 +0800
+WARN 2022/08/25 20:39:50 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:39:50 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 20:39:50 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:39:50 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 20:39:50 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:39:50 Archives page not found. Create a page with layout: archives.
+Rebuilt in 128 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 20:45:35.738 +0800
+WARN 2022/08/25 20:45:35 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:45:35 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 20:45:35 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:45:35 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 20:45:35 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 20:45:35 Archives page not found. Create a page with layout: archives.
+Rebuilt in 106 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 23:42:30.738 +0800
+WARN 2022/08/25 23:42:30 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 23:42:30 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 23:42:30 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 23:42:30 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 23:42:30 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 23:42:30 Archives page not found. Create a page with layout: archives.
+Rebuilt in 125 ms
+
+Change of config file detected, rebuilding site.
+2022-08-25 23:45:40.738 +0800
+WARN 2022/08/25 23:45:40 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 23:45:40 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 23:45:40 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 23:45:40 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/25 23:45:40 Search page not found. Create a page with layout: search.
+WARN 2022/08/25 23:45:40 Archives page not found. Create a page with layout: archives.
+Rebuilt in 107 ms
+
+Change of config file detected, rebuilding site.
+2022-08-26 00:42:38.738 +0800
+WARN 2022/08/26 00:42:38 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 00:42:38 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 00:42:38 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 00:42:38 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 00:42:38 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 00:42:38 Archives page not found. Create a page with layout: archives.
+Rebuilt in 113 ms
+
+Change detected, rebuilding site.
+2022-08-26 00:50:56.738 +0800
+Source changed "/home/ubuntu/hugo/content/first.md": WRITE
+WARN 2022/08/26 00:50:56 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 00:50:56 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 00:50:56 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 00:50:56 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 00:50:56 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 00:50:56 Archives page not found. Create a page with layout: archives.
+Total in 11 ms
+
+Change detected, rebuilding site.
+2022-08-26 00:59:06.738 +0800
+Source changed "/home/ubuntu/hugo/content/first.md": WRITE
+WARN 2022/08/26 00:59:06 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 00:59:06 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 00:59:06 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 00:59:06 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 00:59:06 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 00:59:06 Archives page not found. Create a page with layout: archives.
+Total in 24 ms
+
+Change detected, rebuilding site.
+2022-08-26 01:03:13.738 +0800
+Source changed "/home/ubuntu/hugo/content/first.md": RENAME
+Source changed "/home/ubuntu/hugo/content/index.md": CREATE
+WARN 2022/08/26 01:03:13 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 01:03:13 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 01:03:13 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 01:03:13 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 01:03:13 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 01:03:13 Archives page not found. Create a page with layout: archives.
+Total in 12 ms
+
+Change of config file detected, rebuilding site.
+2022-08-26 01:03:54.738 +0800
+WARN 2022/08/26 01:03:54 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 01:03:54 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 01:03:54 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 01:03:54 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 01:03:54 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 01:03:54 Archives page not found. Create a page with layout: archives.
+Rebuilt in 115 ms
