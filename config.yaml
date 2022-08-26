@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 晨
-        subtitle: 心语诉说美好生活
+        subtitle: 心语诉说世间美好
         avatar:
             enabled: true
             local: false
