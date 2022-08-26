@@ -1,74 +1,91 @@
 nohup: ignoring input
 Start building sites … 
 hugo v0.101.0-466fa43c16709b4483689930a4f9ac8add5c9f66+extended linux/amd64 BuildDate=2022-06-16T07:09:16Z VendorInfo=gohugoio
-WARN 2022/08/26 02:13:37 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:13:37 Archives page not found. Create a page with layout: archives.
-WARN 2022/08/26 02:13:37 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:13:37 Archives page not found. Create a page with layout: archives.
-WARN 2022/08/26 02:13:37 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:13:37 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 16:40:03 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 16:40:03 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 16:40:03 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 16:40:03 Archives page not found. Create a page with layout: archives.
 
                    | ZH-CN | EN | AR  
 -------------------+-------+----+-----
-  Pages            |     9 |  7 |  7  
+  Pages            |    18 |  7 |  7  
   Paginator pages  |     0 |  0 |  0  
-  Non-page files   |     0 |  0 |  0  
+  Non-page files   |     1 |  0 |  0  
   Static files     |     0 |  0 |  0  
   Processed images |     0 |  0 |  0  
-  Aliases          |     4 |  3 |  3  
+  Aliases          |     6 |  3 |  3  
   Sitemaps         |     2 |  1 |  1  
   Cleaned          |     0 |  0 |  0  
 
-Built in 114 ms
+Built in 185 ms
 Watching for changes in /home/ubuntu/hugo/{archetypes,content,data,layouts,static,themes}
 Watching for config changes in /home/ubuntu/hugo/config.yaml, /home/ubuntu/hugo/themes/hugo-theme-stack/config.yaml
 Environment: "development"
 Serving pages from memory
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
-Web Server is available at http://localhost:80/ (bind address 0.0.0.0)
+Web Server is available at //yun36524.com:80/ (bind address 0.0.0.0)
 Press Ctrl+C to stop
 
-Change detected, rebuilding site.
-2022-08-26 02:14:04.759 +0800
-Source changed "/home/ubuntu/hugo/content/post/index.md": REMOVE
-Source changed "/home/ubuntu/hugo/content/post": REMOVE
-WARN 2022/08/26 02:14:04 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:14:04 Archives page not found. Create a page with layout: archives.
-WARN 2022/08/26 02:14:04 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:14:04 Archives page not found. Create a page with layout: archives.
-WARN 2022/08/26 02:14:04 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:14:04 Archives page not found. Create a page with layout: archives.
-Total in 10 ms
-adding created directory to watchlist /home/ubuntu/hugo/content/post
+Change of config file detected, rebuilding site.
+2022-08-26 16:53:00.770 +0800
+WARN 2022/08/26 16:53:00 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 16:53:00 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 16:53:00 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 16:53:00 Archives page not found. Create a page with layout: archives.
+Rebuilt in 190 ms
 
 Change detected, rebuilding site.
-2022-08-26 02:14:39.759 +0800
-WARN 2022/08/26 02:14:39 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:14:39 Archives page not found. Create a page with layout: archives.
-WARN 2022/08/26 02:14:39 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:14:39 Archives page not found. Create a page with layout: archives.
-WARN 2022/08/26 02:14:39 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:14:39 Archives page not found. Create a page with layout: archives.
-Total in 13 ms
-adding created directory to watchlist /home/ubuntu/hugo/content/post/test
+2022-08-26 16:58:31.270 +0800
+Source changed "/home/ubuntu/hugo/content/page/about/index.zh-cn.md": WRITE
+WARN 2022/08/26 16:58:31 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 16:58:31 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 16:58:31 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 16:58:31 Archives page not found. Create a page with layout: archives.
+Total in 16 ms
 
 Change detected, rebuilding site.
-2022-08-26 02:14:43.759 +0800
-WARN 2022/08/26 02:14:43 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:14:43 Archives page not found. Create a page with layout: archives.
-WARN 2022/08/26 02:14:43 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:14:43 Archives page not found. Create a page with layout: archives.
-WARN 2022/08/26 02:14:43 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:14:43 Archives page not found. Create a page with layout: archives.
-Total in 9 ms
+2022-08-26 17:24:29.771 +0800
+Source changed "/home/ubuntu/hugo/content/post/heartbeat/index.md": WRITE
+WARN 2022/08/26 17:24:29 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 17:24:29 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 17:24:29 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 17:24:29 Archives page not found. Create a page with layout: archives.
+Total in 20 ms
 
 Change detected, rebuilding site.
-2022-08-26 02:16:11.258 +0800
-Source changed "/home/ubuntu/hugo/content/post/test/index.md": WRITE
-WARN 2022/08/26 02:16:11 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:16:11 Archives page not found. Create a page with layout: archives.
-WARN 2022/08/26 02:16:11 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:16:11 Archives page not found. Create a page with layout: archives.
-WARN 2022/08/26 02:16:11 Search page not found. Create a page with layout: search.
-WARN 2022/08/26 02:16:11 Archives page not found. Create a page with layout: archives.
-Total in 17 ms
+2022-08-26 17:49:35.270 +0800
+Source changed "/home/ubuntu/hugo/content/post/heartbeat/index.md": WRITE
+Source changed "/home/ubuntu/hugo/content/post/yuming/index.md": WRITE
+WARN 2022/08/26 17:49:35 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 17:49:35 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 17:49:35 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 17:49:35 Archives page not found. Create a page with layout: archives.
+Total in 21 ms
+
+Change detected, rebuilding site.
+2022-08-26 18:09:12.771 +0800
+Source changed "/home/ubuntu/hugo/content/post/heartbeat/index.md": WRITE
+Source changed "/home/ubuntu/hugo/content/post/yuming/index.md": WRITE
+WARN 2022/08/26 18:09:12 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 18:09:12 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 18:09:12 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 18:09:12 Archives page not found. Create a page with layout: archives.
+Total in 22 ms
+
+Change detected, rebuilding site.
+2022-08-26 18:13:34.770 +0800
+Source changed "/home/ubuntu/hugo/content/post/heartbeat/index.md": WRITE
+WARN 2022/08/26 18:13:34 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 18:13:34 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 18:13:34 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 18:13:34 Archives page not found. Create a page with layout: archives.
+Total in 19 ms
+
+Change detected, rebuilding site.
+2022-08-26 18:19:49.270 +0800
+Source changed "/home/ubuntu/hugo/content/post/heartbeat/index.md": WRITE
+WARN 2022/08/26 18:19:49 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 18:19:49 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 18:19:49 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 18:19:49 Archives page not found. Create a page with layout: archives.
+Total in 20 ms
