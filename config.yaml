@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: http://yun36524.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
@@ -80,7 +80,7 @@ params:
             adminLabel:
 
         utterances:
-            repo:
+            repo: yigeqiji/yun36524_hugo_comments
             issueTerm: pathname
             label:
 
