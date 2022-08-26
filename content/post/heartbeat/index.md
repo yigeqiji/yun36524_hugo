@@ -4,7 +4,7 @@ description: 心语诉说美好生活
 date: 2022-08-26T03:03:05+08:00
 image:
 math:
-license: false
+license: true
 hidden: false
 comments: true
 draft: false

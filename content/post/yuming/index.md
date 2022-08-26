@@ -4,7 +4,7 @@ description: 心声记录美好点滴
 date: 2022-08-26T16:09:21+08:00
 image:
 math:
-license: false
+license: true
 hidden: false
 comments: true
 draft: false
