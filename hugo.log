@@ -89,3 +89,117 @@ WARN 2022/08/26 18:19:49 Archives page not found. Create a page with layout: arc
 WARN 2022/08/26 18:19:49 Search page not found. Create a page with layout: search.
 WARN 2022/08/26 18:19:49 Archives page not found. Create a page with layout: archives.
 Total in 20 ms
+adding created directory to watchlist /home/ubuntu/hugo/layouts/partials
+adding created directory to watchlist /home/ubuntu/hugo/layouts/partials/footer
+adding created directory to watchlist /home/ubuntu/hugo/layouts/partials/head
+
+Change detected, rebuilding site.
+2022-08-26 21:34:00.771 +0800
+Template changed "/home/ubuntu/hugo/layouts/partials/footer/custom.html": CREATE
+Template changed "/home/ubuntu/hugo/layouts/partials/head/custom.html": CREATE
+WARN 2022/08/26 21:34:00 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 21:34:00 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 21:34:00 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 21:34:00 Archives page not found. Create a page with layout: archives.
+Total in 64 ms
+
+Change detected, rebuilding site.
+2022-08-26 22:26:58.270 +0800
+Template changed "/home/ubuntu/hugo/layouts/partials/head/custom.html": WRITE
+WARN 2022/08/26 22:26:58 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 22:26:58 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 22:26:58 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 22:26:58 Archives page not found. Create a page with layout: archives.
+Total in 67 ms
+
+Change detected, rebuilding site.
+2022-08-26 22:50:47.270 +0800
+Template changed "/home/ubuntu/hugo/layouts/partials/head/custom.html": WRITE
+WARN 2022/08/26 22:50:47 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 22:50:47 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 22:50:47 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 22:50:47 Archives page not found. Create a page with layout: archives.
+Total in 73 ms
+
+Change detected, rebuilding site.
+2022-08-26 22:56:57.770 +0800
+Template changed "/home/ubuntu/hugo/layouts/partials/head/custom.html": WRITE
+WARN 2022/08/26 22:56:57 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 22:56:57 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 22:56:57 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 22:56:57 Archives page not found. Create a page with layout: archives.
+Total in 65 ms
+
+Change detected, rebuilding site.
+2022-08-26 23:01:11.270 +0800
+Source changed "/home/ubuntu/hugo/content/post/yuming/index.md": WRITE
+Template changed "/home/ubuntu/hugo/layouts/partials/head/custom.html": WRITE
+WARN 2022/08/26 23:01:11 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 23:01:11 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 23:01:11 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 23:01:11 Archives page not found. Create a page with layout: archives.
+Total in 65 ms
+
+Change of config file detected, rebuilding site.
+2022-08-26 23:07:17.770 +0800
+WARN 2022/08/26 23:07:17 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 23:07:17 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 23:07:17 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 23:07:17 Archives page not found. Create a page with layout: archives.
+Rebuilt in 138 ms
+
+Change detected, rebuilding site.
+2022-08-26 23:11:26.771 +0800
+Template changed "/home/ubuntu/hugo/layouts/partials/footer/custom.html": CREATE
+WARN 2022/08/26 23:11:26 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 23:11:26 Archives page not found. Create a page with layout: archives.
+WARN 2022/08/26 23:11:26 Search page not found. Create a page with layout: search.
+WARN 2022/08/26 23:11:26 Archives page not found. Create a page with layout: archives.
+Total in 69 ms
+2022/08/28 02:32:57 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/28 09:21:03 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/28 21:32:27 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/29 07:43:46 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/29 12:20:15 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/29 18:57:27 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/30 05:17:40 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/30 19:06:10 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/30 19:20:00 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/30 19:40:26 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/30 21:04:37 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/30 23:20:04 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/30 23:20:14 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/30 23:20:20 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/30 23:20:24 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/30 23:35:26 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/31 02:41:14 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/31 03:08:07 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/31 05:12:47 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/31 17:33:28 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/31 19:17:29 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/31 19:17:32 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/31 19:17:32 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/08/31 22:33:40 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/09/01 02:14:12 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/09/01 09:38:04 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/09/01 09:40:01 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/09/02 00:10:58 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/09/02 03:45:05 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+
+Change detected, rebuilding site.
+2022-09-02 17:38:30.270 +0800
+Template changed "/home/ubuntu/hugo/themes/hugo-theme-stack/layouts/partials/article/components/details.html": WRITE
+WARN 2022/09/02 17:38:30 Search page not found. Create a page with layout: search.
+WARN 2022/09/02 17:38:30 Archives page not found. Create a page with layout: archives.
+WARN 2022/09/02 17:38:30 Search page not found. Create a page with layout: search.
+WARN 2022/09/02 17:38:30 Archives page not found. Create a page with layout: archives.
+Total in 68 ms
+
+Change detected, rebuilding site.
+2022-09-02 17:40:28.770 +0800
+Template changed "/home/ubuntu/hugo/themes/hugo-theme-stack/layouts/partials/article/components/details.html": WRITE
+WARN 2022/09/02 17:40:28 Search page not found. Create a page with layout: search.
+WARN 2022/09/02 17:40:28 Archives page not found. Create a page with layout: archives.
+WARN 2022/09/02 17:40:28 Search page not found. Create a page with layout: search.
+WARN 2022/09/02 17:40:28 Archives page not found. Create a page with layout: archives.
+Total in 56 ms
